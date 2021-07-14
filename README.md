@@ -1,5 +1,2 @@
-# pro-47
-Hi,
-I am almost done with my own game. 
-I made some improvements that fix some bugs in my game. 
-I look forward to finishing this thing by the end of tomorrow!
+# p5.play-boilerplate
+Boiler plate for p5.play
